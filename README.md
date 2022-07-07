@@ -5,10 +5,10 @@ This codebase implements the system described in the paper:
 >
 > Madhu Vankadari, Stuart Golodetz, Sourav Garg, Sangyun Shin, Andrew Markham, Niki Trigoni
 >
-> [ICCV 2019 (arXiv pdf)](https://arxiv.org/abs/1806.01260)
+> [(arXiv pdf)](https://arxiv.org/abs/1806.01260)
 
 <p align="center">
-  <img src="assets/teaser.png" alt="example input output gif" width="200" />
+  <img src="assets/teaser.png" alt="example input output gif" width="600" />
 </p>
 
 Currently, the paper is under review. We would like to make the training and testing scripts opensource once the paper is accpeted. Meanwhile, if any of the content in this repo or the paper is useful in your research, please consider citing our work:
