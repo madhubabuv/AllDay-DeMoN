@@ -5,7 +5,7 @@ This codebase implements the system described in the paper:
 >
 > Madhu Vankadari, Stuart Golodetz, Sourav Garg, Sangyun Shin, Andrew Markham, Niki Trigoni
 >
-> [(arXiv pdf)](https://arxiv.org/abs/1806.01260)
+> [(arXiv pdf)](https://arxiv.org/abs/2206.13850)
 
 <p align="center">
   <img src="assets/teaser.png" alt="example input output gif" width="600" />
