@@ -24,7 +24,7 @@ Currently, the paper is under review. We would like to make the training and tes
 
 ## Dataset
 
-We evaluated our method’s performance on both day and night sequences from the [Oxford Robot- Car dataset](https://robotcar-dataset.robots.ox.ac.uk/datasets/). This dataset was collected over a one-year period by traversing the same route multiple times so as to include a variety of different weather and lighting conditions. 
+We evaluated our method’s performance on both day and night sequences from the [Oxford RobotCar dataset](https://robotcar-dataset.robots.ox.ac.uk/datasets/). This dataset was collected over a one-year period by traversing the same route multiple times so as to include a variety of different weather and lighting conditions. 
 
 We used the 2014-12-09-13-21-02 traversal for our daytime experiments,the 2014-12-16-18-44-24 traversal for our nighttime.
 
