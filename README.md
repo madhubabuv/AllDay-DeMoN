@@ -11,7 +11,7 @@ This codebase implements the system described in the paper:
   <img src="assets/teaser.png" alt="example input output gif" width="600" />
 </p>
 
-Currently, the paper is under review. We would like to make the training and testing scripts opensource once the paper is accpeted. Meanwhile, if any of the content in this repo or the paper is useful in your research, please consider citing our work:
+Currently, the paper is under review. We would like to make the training and testing scripts open source once the paper is accpeted. Meanwhile, if any of the content in this repo or the paper is useful in your research, please consider citing our work:
 
 ```
 @article{vankadari2022sun,
@@ -39,7 +39,7 @@ For example, the generate training split for the night-time traverse 2014-12-16-
 python3 data/getOxSplits.py -p traverses -t 2014-12-16-18-44-24 -s train -d -o 0.01
 ```
 
-We are also adding the data splits used to train and test our model in the paper, please use them to compare against our model until we release the code and pretrianed models.
+We are also adding the data splits used to train and test our model in the paper here, please use them to compare against our model until we release the code and pretrianed models.
 
 
 
